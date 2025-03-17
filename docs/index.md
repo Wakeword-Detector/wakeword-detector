@@ -1,9 +1,15 @@
 # Wakeword Detector
-A free, open-source wake-word detection package using PyTorch.
+Free, open-source wake-word detection packages using PyTorch, with associated npm package for React integrations.
+STILL IN DEVELOPMENT
 
-## Install
-```bash
+## Install Trainer
 pip install wakeword-detector
 
+### Usage
 wakeword-record
 wakeword-detect
+
+## Integrate with React
+npm install wakeword-react
+
+### Usage
